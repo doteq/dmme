@@ -158,7 +158,7 @@ namespace raidbot
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://discord.gg/xJMpT2q");
+            System.Diagnostics.Process.Start("https://discord.gg/JbSxhYW");
         }
     }
 }
